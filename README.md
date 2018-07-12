@@ -1,6 +1,7 @@
 ### 百度系统部
 
-邮箱地址：gaoxiang11@baidu.com
+邮箱地址：gaoxiang11@baidu.com  
+
 简历命名: 【校招内推】+职位+姓名+毕业院校
 
 ![](http://ww1.sinaimg.cn/mw690/a210afcdgy1ft77k0o0bmj20oi0p21kx.jpg)
